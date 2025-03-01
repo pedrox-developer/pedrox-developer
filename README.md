@@ -1,5 +1,4 @@
-## Pedro Henrique
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Pedro Henrique
 
 **`Desenvolvedora Front-end`**
 
